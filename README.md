@@ -4,7 +4,7 @@ Icon theme built for Linux Mint. Adds colorized moka file-manager icons to bette
 Credits
 =======
 
-The application and category icons originate from the Moka icon theme:
+The colorized file-manager icons originate from the Moka icon theme:
 
 * Link: https://github.com/moka-project/moka-icon-theme
 * Author: Sam Hewitt <hewittsamuel@gmail.com>
