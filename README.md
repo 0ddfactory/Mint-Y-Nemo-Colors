@@ -8,7 +8,7 @@ If it has ever bothered you that the linux mint file manager icons do not match 
   
 ![image](https://github.com/0ddfactory/Mint-Y-Nemo-Colors/assets/25939455/4e1a8acf-6d54-420d-b03e-fde8d6d87f29)
 
-My solution for this was to colorize the Moka file-manager icons for each accent theme and create a new theme that inherits Mint-Y colors and overwriting the file-manager icons.
+My solution for this was to colorize the Moka file-manager icons for each accent theme and create a new theme that inherits Mint-Y colors and overwrites the file-manager icons.
   
 ![image](https://github.com/0ddfactory/Mint-Y-Nemo-Colors/assets/25939455/39665f76-dbbb-4c07-a56e-ee943fb136e4)
 
