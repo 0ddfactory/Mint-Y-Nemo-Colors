@@ -44,3 +44,5 @@ The colorized file-manager icons originate from the Moka icon theme:
 * Author: Sam Hewitt <hewittsamuel@gmail.com>
 * License: Creative Commons Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
 
+"[Moka Icons](http://snwh.org/moka)" by [Sam Hewitt](http://samuelhewitt.com/) is licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
